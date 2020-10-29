@@ -13,18 +13,6 @@
         }
     },
     "license": "MIT",
-    "keywords": [
-        "Laravel 5",
-        "Indian Payment Gateways",
-        "CCAvenue",
-        "PayUMoney",
-        "EBS",
-        "CitrusPay",
-        "InstaMojo",
-        "Mobikwik / ZapakPay",
-        "Paytm",
-        "Mocker"
-    ],
     "authors": [
         {
             "name": "Rohit Mahajan",
